@@ -536,6 +536,9 @@ MSO_INFO = {
     'tel160-fra': {
         'name': 'Franklin Telephone Company'
     },
+    'Frontier': {
+        'name': 'Frontier Communications'
+    },
     'nttcftc010': {
         'name': 'FTC'
     },
